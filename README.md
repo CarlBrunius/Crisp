@@ -1,8 +1,8 @@
 # Crisp
-Crisp I Study LCMS
+Crisp I: LCMS preprocessing, processing and multivariate statistical analysis
 
 ## Version history
-2017-07-02 1st commit: R Scripts and Data files added. Readme.md added.
+2017-07-02 1st commit: R Scripts and Data files for preliminary analysis added. Readme.md added.
 
 ## Data files (in logical sequence order)
 - Data5.RData (XCMS object with LC-MS data)
